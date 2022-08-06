@@ -10,7 +10,7 @@ For further references feel free to look at the [Unlocked documentation](https:/
 
 ## Install
 
-```bash 
+```console 
 git clone https://github.com/UnlockedUI/style-dictionary-example.git
 ```
 
@@ -18,7 +18,7 @@ git clone https://github.com/UnlockedUI/style-dictionary-example.git
 
 Export your Unlocked design tokens from your Figma file and replace the input file.
 
-```bash
+```console
 npm run build
 ```
 
