@@ -6,12 +6,12 @@ We have stripped it down to just export the necessary JS files you'll need accor
 
 Please take a look at the style dictionary documentation as this is a barebones example project and intended to demonstrate only what can be done.
 
-For further references feel free to look at the Unlocked documentation.
+For further references feel free to look at the [Unlocked documentation](https://docs.unlocked.to/compositions/getting-started.html).
 
 ## Install
 
 ```bash 
-git clone 
+git clone https://github.com/UnlockedUI/style-dictionary-example.git
 ```
 
 ## Instructions
